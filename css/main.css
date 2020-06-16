@@ -1,0 +1,29 @@
+body{
+    background-color: #4ECDC4;
+}
+
+h2{
+    text-align: center;
+    color: #FF6B6B;
+}
+ img{
+    border: 1px solid #4ecdc4;
+  border-radius: 6px;
+  padding: 50px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+    color: #ffe66d;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500px;
+}
+
+a{ 
+    text-align: center;
+    display: block;
+}
